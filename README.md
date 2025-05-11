@@ -1,5 +1,10 @@
-## Hi there 👋
+## Howdy
 
+- I am currently researching what is best to pursue as I continue to go further along in my computer science major.
+- I am currently learning python and looking into good career paths
+- I am looking for advice on careers and paths to take
+- Reach out to me through Twitter/Discord: @HVCLuc/@thepartyhatherobrine
+- Fun Fact: I am a Professional Rocket League Coach!
 <!--
 **HVCLuc/HVCLuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
