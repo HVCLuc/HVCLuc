@@ -1,4 +1,5 @@
-## Howdy
+## Howdy, I am Luc
+# Information about me
 
 - I am currently researching what is best to pursue as I continue to go further along in my computer science major.
 - I am currently learning python and looking into good career paths
